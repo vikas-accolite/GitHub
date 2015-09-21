@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelGuideFinder</string>
+    <string name="welcomeLineGuide">Welcome Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginLine">Welcome To TravelGuide Finder \n Please login to continue</string>
+    <string name="loginError">Login credentials not valid</string>
+    <string name="Cities">Cities</string>
+    <string name="username">VIKAS SRIVASTAVA</string>
+
+   
+
+</resources>
